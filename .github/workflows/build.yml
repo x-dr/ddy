@@ -7,7 +7,7 @@ on:
   schedule:
    - cron: '* 16 * * *'
 jobs:
-  Pic-spider:
+  ddy:
     runs-on: ubuntu-latest
     steps:
       - name: Set time zone
