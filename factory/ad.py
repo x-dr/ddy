@@ -24,7 +24,39 @@ rules_url = [
     # anti-AD
     'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt',
     # adblock_list
-    'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt'
+    'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt',
+    # 可从国际网页上删除大部分广告，包括不需要的框架，图像和对象
+    # EasyList
+     'https://easylist-downloads.adblockplus.org/easylist.txt',
+    #  EasyList China EasyList 的中文补充过滤器
+    'https://easylist-downloads.adblockplus.org/easylistchina.txt',
+    # EasyPrivacy
+    # 可选的补充过滤器列表，该列表从网络删除了所有形式的跟踪，包括 Web 错误，跟踪脚本和信息收集器，从而保护您的个人数据
+    'https://easylist-downloads.adblockplus.org/easyprivacy.txt',
+    # EasyList Cookie List
+    # 阻止 cookie 横幅，GDPR 覆盖窗口和其他与隐私相关的通知
+    # 'https://easylist-downloads.adblockplus.org/easylist-cookie.txt', 
+    # CJX's Annoyance List
+    # “ EasyList China + EasyList” 和 “ EasyPrivacy” 的补充，删除了中文网站上的烦人的自我推广
+    'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt',
+    # 可从几乎所有网站上删除 Cookie 警告，并为您节省数千次不必要的点击！
+    # I don't care about cookies
+    'https://www.i-dont-care-about-cookies.eu/abp/',
+    # halflife
+    'https://github.com/o0HalfLife0o/list/blob/master/ad.txt',
+    # Hblock
+    # 通过阻止广告，跟踪和恶意软件域来提高安全性和隐私性
+    'https://hblock.molinero.dev/hosts',
+    # 您可以使用此文件来阻止广告，横幅，第三方 Cookie，第三方页面计数器，网络错误，甚至是大多数劫持和可能有害的程序
+    # Mvps
+    'http://winhelp2002.mvps.org/hosts.txt'
+
+
+
+
+
+
+
 
 ]
 
