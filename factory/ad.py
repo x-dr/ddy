@@ -14,13 +14,17 @@ import re
 
 rules_url = [
     # EasyList China
-    #'https://easylist-downloads.adblockplus.org/easylistchina.txt',
+    # 'https://easylist-downloads.adblockplus.org/easylistchina.txt',
     # EasyList + China
     'https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt',
     # 乘风 广告过滤规则
     # 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt'
     'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt',
-    'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt'
+    'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt',
+    # anti-AD
+    'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt',
+    # adblock_list
+    'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt'
 
 ]
 
@@ -47,7 +51,8 @@ for rule_url in rules_url:
             break
 
     if not success:
-        sys.exit('error in request %s\n\treturn code: %d' % (rule_url, r.status_code) )
+        sys.exit('error in request %s\n\treturn code: %d' %
+                 (rule_url, r.status_code))
 
     rule = rule + r.text + '\n'
 
@@ -71,11 +76,10 @@ for row in rule:
 
         continue
 
-
     # 处理广告黑名单规则
 
     # 直接跳过
-    if row=='' or row.startswith('!') or "$" in row or "##" in row:
+    if row == '' or row.startswith('!') or "$" in row or "##" in row:
         continue
 
     # 清除前缀
@@ -89,7 +93,7 @@ for row in rule:
 
     # 不能含有的字符
     if re.search(r'[/^:*]', row):
-        print('ignore: '+row0)
+        # print('ignore: '+row0)
         continue
 
     # 只匹配域名或 IP
@@ -110,9 +114,10 @@ try:
 except:
     pass
 
-file_ad.write('# adblock rules refresh time: ' + time.strftime("%Y-%m-%d %H:%M:%S") + '\n')
+file_ad.write('# adblock rules refresh time: ' +
+              time.strftime("%Y-%m-%d %H:%M:%S") + '\n')
 
-domains = list( set(domains) )
+domains = list(set(domains))
 domains.sort()
 
 for item in domains:
