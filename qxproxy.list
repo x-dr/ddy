@@ -2623,6 +2623,7 @@ DOMAIN-SUFFIX,insidevoa.com,Proxy
 DOMAIN-SUFFIX,instagram.com,Proxy
 DOMAIN-SUFFIX,instanthq.com,Proxy
 DOMAIN-SUFFIX,institut-tibetain.org,Proxy
+DOMAIN-SUFFIX,interactivebrokers.com,Proxy
 DOMAIN-SUFFIX,international-news.newsmagazine.asia,Proxy
 DOMAIN-SUFFIX,internet.org,Proxy
 DOMAIN-SUFFIX,internetdefenseleague.org,Proxy
@@ -3674,6 +3675,7 @@ DOMAIN-SUFFIX,onthehunt.com,Proxy
 DOMAIN-SUFFIX,ontrac.com,Proxy
 DOMAIN-SUFFIX,oopsforum.com,Proxy
 DOMAIN-SUFFIX,open.com.hk,Proxy
+DOMAIN-SUFFIX,openai.com,Proxy
 DOMAIN-SUFFIX,openallweb.com,Proxy
 DOMAIN-SUFFIX,opendemocracy.net,Proxy
 DOMAIN-SUFFIX,opendn.xyz,Proxy
@@ -4064,7 +4066,6 @@ DOMAIN-SUFFIX,raremovie.net,Proxy
 DOMAIN-SUFFIX,rateyourmusic.com,Proxy
 DOMAIN-SUFFIX,rationalwiki.org,Proxy
 DOMAIN-SUFFIX,raw.githack.com,Proxy
-DOMAIN-SUFFIX,raw.githubusercontent.com,Proxy
 DOMAIN-SUFFIX,rawgit.com,Proxy
 DOMAIN-SUFFIX,rawgithub.com,Proxy
 DOMAIN-SUFFIX,razyboard.com,Proxy
@@ -4495,6 +4496,7 @@ DOMAIN-SUFFIX,spotify.com,Proxy
 DOMAIN-SUFFIX,spreadshirt.es,Proxy
 DOMAIN-SUFFIX,spring4u.info,Proxy
 DOMAIN-SUFFIX,springboardplatform.com,Proxy
+DOMAIN-SUFFIX,springwood.me,Proxy
 DOMAIN-SUFFIX,sprite.org,Proxy
 DOMAIN-SUFFIX,sproutcore.com,Proxy
 DOMAIN-SUFFIX,sproxy.info,Proxy
@@ -4788,6 +4790,7 @@ DOMAIN-SUFFIX,thisav.com,Proxy
 DOMAIN-SUFFIX,thlib.org,Proxy
 DOMAIN-SUFFIX,thomasbernhard.org,Proxy
 DOMAIN-SUFFIX,thongdreams.com,Proxy
+DOMAIN-SUFFIX,threadreaderapp.com,Proxy
 DOMAIN-SUFFIX,threatchaos.com,Proxy
 DOMAIN-SUFFIX,throughnightsfire.com,Proxy
 DOMAIN-SUFFIX,thumbzilla.com,Proxy
@@ -5812,6 +5815,7 @@ DOMAIN-SUFFIX,yomiuri.co.jp,Proxy
 DOMAIN-SUFFIX,yong.hu,Proxy
 DOMAIN-SUFFIX,yorkbbs.ca,Proxy
 DOMAIN-SUFFIX,you-get.org,Proxy
+DOMAIN-SUFFIX,you.com,Proxy
 DOMAIN-SUFFIX,youdontcare.com,Proxy
 DOMAIN-SUFFIX,youjizz.com,Proxy
 DOMAIN-SUFFIX,youmaker.com,Proxy
