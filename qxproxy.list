@@ -560,6 +560,7 @@ DOMAIN-SUFFIX,bitchute.com,Proxy
 DOMAIN-SUFFIX,bitcointalk.org,Proxy
 DOMAIN-SUFFIX,bitcoinworld.com,Proxy
 DOMAIN-SUFFIX,bitfinex.com,Proxy
+DOMAIN-SUFFIX,bitget.com,Proxy
 DOMAIN-SUFFIX,bithumb.com,Proxy
 DOMAIN-SUFFIX,bitmex.com,Proxy
 DOMAIN-SUFFIX,bitshare.com,Proxy
@@ -998,6 +999,7 @@ DOMAIN-SUFFIX,clipconverter.cc,Proxy
 DOMAIN-SUFFIX,clipfish.de,Proxy
 DOMAIN-SUFFIX,cloud.dify.ai,Proxy
 DOMAIN-SUFFIX,cloud.mail.ru,Proxy
+DOMAIN-SUFFIX,cloudflare-dns.com,Proxy
 DOMAIN-SUFFIX,cloudflare-ipfs.com,Proxy
 DOMAIN-SUFFIX,cloudfunctions.net,Proxy
 DOMAIN-SUFFIX,club1069.com,Proxy
@@ -2975,6 +2977,7 @@ DOMAIN-SUFFIX,matters.news,Proxy
 DOMAIN-SUFFIX,matters.town,Proxy
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com,Proxy
 DOMAIN-SUFFIX,mattwilcox.net,Proxy
+DOMAIN-SUFFIX,maven.neoforged.net,Proxy
 DOMAIN-SUFFIX,maxing.jp,Proxy
 DOMAIN-SUFFIX,mayimayi.com,Proxy
 DOMAIN-SUFFIX,mcadforums.com,Proxy
@@ -4983,6 +4986,7 @@ DOMAIN-SUFFIX,unseen.is,Proxy
 DOMAIN-SUFFIX,unstable.icu,Proxy
 DOMAIN-SUFFIX,unwire.hk,Proxy
 DOMAIN-SUFFIX,uocn.org,Proxy
+DOMAIN-SUFFIX,upbit.com,Proxy
 DOMAIN-SUFFIX,updates.tdesktop.com,Proxy
 DOMAIN-SUFFIX,upghsbc.com,Proxy
 DOMAIN-SUFFIX,upholdjustice.org,Proxy
@@ -5404,7 +5408,6 @@ DOMAIN-SUFFIX,www.monlamit.org,Proxy
 DOMAIN-SUFFIX,www.moztw.org,Proxy
 DOMAIN-SUFFIX,www.msn.com,Proxy
 DOMAIN-SUFFIX,www.nbc.com,Proxy
-DOMAIN-SUFFIX,www.nodeloc.com,Proxy
 DOMAIN-SUFFIX,www.owind.com,Proxy
 DOMAIN-SUFFIX,www.oxid.it,Proxy
 DOMAIN-SUFFIX,www.powerpointninja.com,Proxy
@@ -5424,6 +5427,8 @@ DOMAIN-SUFFIX,www1.biz,Proxy
 DOMAIN-SUFFIX,www2.ohchr.org,Proxy
 DOMAIN-SUFFIX,www2.rocketbbs.com,Proxy
 DOMAIN-SUFFIX,wwwhost.biz,Proxy
+DOMAIN-SUFFIX,wxw.cat,Proxy
+DOMAIN-SUFFIX,wxw.moe,Proxy
 DOMAIN-SUFFIX,wzyboy.im,Proxy
 DOMAIN-SUFFIX,x-art.com,Proxy
 DOMAIN-SUFFIX,x-berry.com,Proxy
