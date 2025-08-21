@@ -523,6 +523,7 @@ DOMAIN-SUFFIX,bestvpnusa.com,Proxy
 DOMAIN-SUFFIX,bet365.com,Proxy
 DOMAIN-SUFFIX,betaclouds.net,Proxy
 DOMAIN-SUFFIX,betfair.com,Proxy
+DOMAIN-SUFFIX,betterhash.net,Proxy
 DOMAIN-SUFFIX,betternet.co,Proxy
 DOMAIN-SUFFIX,bettervpn.com,Proxy
 DOMAIN-SUFFIX,bettween.com,Proxy
@@ -549,6 +550,7 @@ DOMAIN-SUFFIX,bild.de,Proxy
 DOMAIN-SUFFIX,biliworld.com,Proxy
 DOMAIN-SUFFIX,billypan.com,Proxy
 DOMAIN-SUFFIX,binance.com,Proxy
+DOMAIN-SUFFIX,binance.org,Proxy
 DOMAIN-SUFFIX,binancezh.cc,Proxy
 DOMAIN-SUFFIX,binux.me,Proxy
 DOMAIN-SUFFIX,bird.so,Proxy
@@ -1223,6 +1225,7 @@ DOMAIN-SUFFIX,delicious.com,Proxy
 DOMAIN-SUFFIX,demo.unlock-music.dev,Proxy
 DOMAIN-SUFFIX,democrats.org,Proxy
 DOMAIN-SUFFIX,demosisto.hk,Proxy
+DOMAIN-SUFFIX,deno.dev,Proxy
 DOMAIN-SUFFIX,depositphotos.com,Proxy
 DOMAIN-SUFFIX,desc.se,Proxy
 DOMAIN-SUFFIX,desipro.de,Proxy
@@ -1291,6 +1294,7 @@ DOMAIN-SUFFIX,dnvod.tv,Proxy
 DOMAIN-SUFFIX,doc.new,Proxy
 DOMAIN-SUFFIX,docker.com,Proxy
 DOMAIN-SUFFIX,docker.io,Proxy
+DOMAIN-SUFFIX,docs.deno.com,Proxy
 DOMAIN-SUFFIX,docs.new,Proxy
 DOMAIN-SUFFIX,doctorvoice.org,Proxy
 DOMAIN-SUFFIX,documentingreality.com,Proxy
@@ -1813,6 +1817,7 @@ DOMAIN-SUFFIX,fuq.com,Proxy
 DOMAIN-SUFFIX,furbo.org,Proxy
 DOMAIN-SUFFIX,furhhdl.org,Proxy
 DOMAIN-SUFFIX,furinkan.com,Proxy
+DOMAIN-SUFFIX,furrybar.com,Proxy
 DOMAIN-SUFFIX,futurechinaforum.org,Proxy
 DOMAIN-SUFFIX,futuremessage.org,Proxy
 DOMAIN-SUFFIX,fux.com,Proxy
@@ -2185,6 +2190,7 @@ DOMAIN-SUFFIX,hentaivideoworld.com,Proxy
 DOMAIN-SUFFIX,heqinglian.net,Proxy
 DOMAIN-SUFFIX,heritage.org,Proxy
 DOMAIN-SUFFIX,herokuapp.com,Proxy
+DOMAIN-SUFFIX,herominers.com,Proxy
 DOMAIN-SUFFIX,hexieshe.com,Proxy
 DOMAIN-SUFFIX,hexieshe.xyz,Proxy
 DOMAIN-SUFFIX,hexxeh.net,Proxy
@@ -2480,6 +2486,7 @@ DOMAIN-SUFFIX,indiatoday.in,Proxy
 DOMAIN-SUFFIX,indiemerch.com,Proxy
 DOMAIN-SUFFIX,inews-api.tvb.com,Proxy
 DOMAIN-SUFFIX,info-graf.fr,Proxy
+DOMAIN-SUFFIX,infura.io,Proxy
 DOMAIN-SUFFIX,inherit.live,Proxy
 DOMAIN-SUFFIX,initiativesforchina.org,Proxy
 DOMAIN-SUFFIX,inkbunny.net,Proxy
@@ -2553,9 +2560,11 @@ DOMAIN-SUFFIX,isupportuyghurs.org,Proxy
 DOMAIN-SUFFIX,itaiwan.gov.tw,Proxy
 DOMAIN-SUFFIX,italiatibet.org,Proxy
 DOMAIN-SUFFIX,itasoftware.com,Proxy
+DOMAIN-SUFFIX,itch.io,Proxy
 DOMAIN-SUFFIX,itemdb.com,Proxy
 DOMAIN-SUFFIX,itemfix.com,Proxy
 DOMAIN-SUFFIX,ithelp.ithome.com.tw,Proxy
+DOMAIN-SUFFIX,itiger.com,Proxy
 DOMAIN-SUFFIX,itsaol.com,Proxy
 DOMAIN-SUFFIX,itshidden.com,Proxy
 DOMAIN-SUFFIX,itsky.it,Proxy
@@ -2904,6 +2913,7 @@ DOMAIN-SUFFIX,lsmwebcast.com,Proxy
 DOMAIN-SUFFIX,lsxszzg.com,Proxy
 DOMAIN-SUFFIX,ltn.com.tw,Proxy
 DOMAIN-SUFFIX,luckydesigner.space,Proxy
+DOMAIN-SUFFIX,luckymobile.ca,Proxy
 DOMAIN-SUFFIX,ludepress.com,Proxy
 DOMAIN-SUFFIX,luke54.com,Proxy
 DOMAIN-SUFFIX,luke54.org,Proxy
@@ -3026,6 +3036,7 @@ DOMAIN-SUFFIX,mesotw.com,Proxy
 DOMAIN-SUFFIX,messenger.com,Proxy
 DOMAIN-SUFFIX,meta.com,Proxy
 DOMAIN-SUFFIX,metafilter.com,Proxy
+DOMAIN-SUFFIX,metamask.io,Proxy
 DOMAIN-SUFFIX,metart.com,Proxy
 DOMAIN-SUFFIX,metarthunter.com,Proxy
 DOMAIN-SUFFIX,meteorshowersonline.com,Proxy
@@ -3248,6 +3259,7 @@ DOMAIN-SUFFIX,nationalreview.com,Proxy
 DOMAIN-SUFFIX,nationsonline.org,Proxy
 DOMAIN-SUFFIX,nationwide.com,Proxy
 DOMAIN-SUFFIX,naughtyamerica.com,Proxy
+DOMAIN-SUFFIX,naver.com,Proxy
 DOMAIN-SUFFIX,navyfamily.navy.mil,Proxy
 DOMAIN-SUFFIX,navyreserve.navy.mil,Proxy
 DOMAIN-SUFFIX,naweeklytimes.com,Proxy
@@ -3572,6 +3584,7 @@ DOMAIN-SUFFIX,palacemoon.com,Proxy
 DOMAIN-SUFFIX,paljorpublications.com,Proxy
 DOMAIN-SUFFIX,paltalk.com,Proxy
 DOMAIN-SUFFIX,panamapapers.sueddeutsche.de,Proxy
+DOMAIN-SUFFIX,pancakeswap.finance,Proxy
 DOMAIN-SUFFIX,pandafan.pub,Proxy
 DOMAIN-SUFFIX,pandapow.co,Proxy
 DOMAIN-SUFFIX,pandapow.net,Proxy
@@ -3638,6 +3651,7 @@ DOMAIN-SUFFIX,periscope.tv,Proxy
 DOMAIN-SUFFIX,perplexity.ai,Proxy
 DOMAIN-SUFFIX,persecutionblog.com,Proxy
 DOMAIN-SUFFIX,persiankitty.com,Proxy
+DOMAIN-SUFFIX,pewresearch.org,Proxy
 DOMAIN-SUFFIX,phapluan.org,Proxy
 DOMAIN-SUFFIX,phayul.com,Proxy
 DOMAIN-SUFFIX,philborges.com,Proxy
@@ -3767,6 +3781,7 @@ DOMAIN-SUFFIX,prism-break.org,Proxy
 DOMAIN-SUFFIX,prisoneralert.com,Proxy
 DOMAIN-SUFFIX,pritunl.com,Proxy
 DOMAIN-SUFFIX,privacybox.de,Proxy
+DOMAIN-SUFFIX,privacyguides.org,Proxy
 DOMAIN-SUFFIX,private.com,Proxy
 DOMAIN-SUFFIX,privateinternetaccess.com,Proxy
 DOMAIN-SUFFIX,privatepaste.com,Proxy
@@ -4419,6 +4434,7 @@ DOMAIN-SUFFIX,suroot.com,Proxy
 DOMAIN-SUFFIX,surrenderat20.net,Proxy
 DOMAIN-SUFFIX,svsfx.com,Proxy
 DOMAIN-SUFFIX,swagbucks.com,Proxy
+DOMAIN-SUFFIX,swapspace.co,Proxy
 DOMAIN-SUFFIX,swissinfo.ch,Proxy
 DOMAIN-SUFFIX,swissvpn.net,Proxy
 DOMAIN-SUFFIX,switch1.jp,Proxy
@@ -4946,6 +4962,7 @@ DOMAIN-SUFFIX,uderzo.it,Proxy
 DOMAIN-SUFFIX,udn.com,Proxy
 DOMAIN-SUFFIX,udn.com.tw,Proxy
 DOMAIN-SUFFIX,udnbkk.com,Proxy
+DOMAIN-SUFFIX,udomain.hk,Proxy
 DOMAIN-SUFFIX,uforadio.com.tw,Proxy
 DOMAIN-SUFFIX,ufreevpn.com,Proxy
 DOMAIN-SUFFIX,ugo.com,Proxy
