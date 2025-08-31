@@ -1086,6 +1086,7 @@ DOMAIN-SUFFIX,costco.com,Proxy
 DOMAIN-SUFFIX,cotweet.com,Proxy
 DOMAIN-SUFFIX,counter.social,Proxy
 DOMAIN-SUFFIX,coursehero.com,Proxy
+DOMAIN-SUFFIX,covenantswatch.org.tw,Proxy
 DOMAIN-SUFFIX,coze.com,Proxy
 DOMAIN-SUFFIX,cpj.org,Proxy
 DOMAIN-SUFFIX,cpu-monkey.com,Proxy
@@ -1634,6 +1635,7 @@ DOMAIN-SUFFIX,fdc64.org,Proxy
 DOMAIN-SUFFIX,fdc89.jp,Proxy
 DOMAIN-SUFFIX,feedburner.com,Proxy
 DOMAIN-SUFFIX,feeder.co,Proxy
+DOMAIN-SUFFIX,feedly.com,Proxy
 DOMAIN-SUFFIX,feeds.fileforum.com,Proxy
 DOMAIN-SUFFIX,feedx.net,Proxy
 DOMAIN-SUFFIX,feelssh.com,Proxy
@@ -1806,6 +1808,8 @@ DOMAIN-SUFFIX,ftvnews.com.tw,Proxy
 DOMAIN-SUFFIX,ftx.com,Proxy
 DOMAIN-SUFFIX,fucd.com,Proxy
 DOMAIN-SUFFIX,fuchsia.dev,Proxy
+DOMAIN-SUFFIX,fuckccp.com,Proxy
+DOMAIN-SUFFIX,fuckccp.xyz,Proxy
 DOMAIN-SUFFIX,fuckgfw.org,Proxy
 DOMAIN-SUFFIX,fulione.com,Proxy
 DOMAIN-SUFFIX,fullerconsideration.com,Proxy
@@ -3123,6 +3127,7 @@ DOMAIN-SUFFIX,mofos.com,Proxy
 DOMAIN-SUFFIX,mog.com,Proxy
 DOMAIN-SUFFIX,mohu.club,Proxy
 DOMAIN-SUFFIX,mohu.rocks,Proxy
+DOMAIN-SUFFIX,moj.gov.tw,Proxy
 DOMAIN-SUFFIX,mojim.com,Proxy
 DOMAIN-SUFFIX,mol.gov.tw,Proxy
 DOMAIN-SUFFIX,molihua.org,Proxy
