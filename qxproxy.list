@@ -154,6 +154,7 @@ DOMAIN-SUFFIX,abematv.akamaized.net,Proxy
 DOMAIN-SUFFIX,abitno.linpie.com,Proxy
 DOMAIN-SUFFIX,ablwang.com,Proxy
 DOMAIN-SUFFIX,aboluowang.com,Proxy
+DOMAIN-SUFFIX,about.gitlab.com,Proxy
 DOMAIN-SUFFIX,about.me,Proxy
 DOMAIN-SUFFIX,abplive.com,Proxy
 DOMAIN-SUFFIX,abs.edu,Proxy
@@ -1859,6 +1860,7 @@ DOMAIN-SUFFIX,gaopi.net,Proxy
 DOMAIN-SUFFIX,gardennetworks.com,Proxy
 DOMAIN-SUFFIX,gardennetworks.org,Proxy
 DOMAIN-SUFFIX,gartlive.com,Proxy
+DOMAIN-SUFFIX,garudalinux.org,Proxy
 DOMAIN-SUFFIX,gate.io,Proxy
 DOMAIN-SUFFIX,gatecoin.com,Proxy
 DOMAIN-SUFFIX,gather.com,Proxy
@@ -3001,6 +3003,7 @@ DOMAIN-SUFFIX,mcadforums.com,Proxy
 DOMAIN-SUFFIX,mcaf.ee,Proxy
 DOMAIN-SUFFIX,mcfog.com,Proxy
 DOMAIN-SUFFIX,mcreasite.com,Proxy
+DOMAIN-SUFFIX,mcusercontent.com,Proxy
 DOMAIN-SUFFIX,md-t.org,Proxy
 DOMAIN-SUFFIX,me.me,Proxy
 DOMAIN-SUFFIX,me.ns.ci,Proxy
@@ -3375,6 +3378,7 @@ DOMAIN-SUFFIX,ninecommentaries.com,Proxy
 DOMAIN-SUFFIX,ninjacloak.com,Proxy
 DOMAIN-SUFFIX,ninjaproxy.ninja,Proxy
 DOMAIN-SUFFIX,nintendium.com,Proxy
+DOMAIN-SUFFIX,nirsoft.net,Proxy
 DOMAIN-SUFFIX,nitter.cc,Proxy
 DOMAIN-SUFFIX,nitter.net,Proxy
 DOMAIN-SUFFIX,niu.moe,Proxy
@@ -4194,6 +4198,7 @@ DOMAIN-SUFFIX,simplecd.org,Proxy
 DOMAIN-SUFFIX,simpleproductivityblog.com,Proxy
 DOMAIN-SUFFIX,simpleswap.io,Proxy
 DOMAIN-SUFFIX,simplex.chat,Proxy
+DOMAIN-SUFFIX,sina.com.hk,Proxy
 DOMAIN-SUFFIX,sinchew.com.my,Proxy
 DOMAIN-SUFFIX,singaporepools.com.sg,Proxy
 DOMAIN-SUFFIX,singfortibet.com,Proxy
@@ -4494,6 +4499,7 @@ DOMAIN-SUFFIX,taiwantt.org.tw,Proxy
 DOMAIN-SUFFIX,taiwanus.net,Proxy
 DOMAIN-SUFFIX,taiwanyes.ning.com,Proxy
 DOMAIN-SUFFIX,talk853.com,Proxy
+DOMAIN-SUFFIX,talkatone.com,Proxy
 DOMAIN-SUFFIX,talkboxapp.com,Proxy
 DOMAIN-SUFFIX,talkcc.com,Proxy
 DOMAIN-SUFFIX,talkonly.net,Proxy
@@ -5205,6 +5211,7 @@ DOMAIN-SUFFIX,vpnvip.com,Proxy
 DOMAIN-SUFFIX,vpnworldwide.com,Proxy
 DOMAIN-SUFFIX,vporn.com,Proxy
 DOMAIN-SUFFIX,vpser.net,Proxy
+DOMAIN-SUFFIX,vpsxb.net,Proxy
 DOMAIN-SUFFIX,vraiesagesse.net,Proxy
 DOMAIN-SUFFIX,vrchat.com,Proxy
 DOMAIN-SUFFIX,vrmtr.com,Proxy
