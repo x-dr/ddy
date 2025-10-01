@@ -318,6 +318,7 @@ DOMAIN-SUFFIX,apetube.com,Proxy
 DOMAIN-SUFFIX,api-secure.recaptcha.net,Proxy
 DOMAIN-SUFFIX,api-verify.recaptcha.net,Proxy
 DOMAIN-SUFFIX,api.ai,Proxy
+DOMAIN-SUFFIX,api.palworldgame.com,Proxy
 DOMAIN-SUFFIX,api.pureapk.com,Proxy
 DOMAIN-SUFFIX,api.recaptcha.net,Proxy
 DOMAIN-SUFFIX,api.steampowered.com,Proxy
@@ -1122,6 +1123,7 @@ DOMAIN-SUFFIX,csuchen.de,Proxy
 DOMAIN-SUFFIX,csw.org.uk,Proxy
 DOMAIN-SUFFIX,ct.org.tw,Proxy
 DOMAIN-SUFFIX,ctao.org,Proxy
+DOMAIN-SUFFIX,ctinets.com,Proxy
 DOMAIN-SUFFIX,ctinews.com,Proxy
 DOMAIN-SUFFIX,ctitv.com.tw,Proxy
 DOMAIN-SUFFIX,ctowc.org,Proxy
@@ -2513,6 +2515,7 @@ DOMAIN-SUFFIX,internet.org,Proxy
 DOMAIN-SUFFIX,internetdefenseleague.org,Proxy
 DOMAIN-SUFFIX,internetfreedom.org,Proxy
 DOMAIN-SUFFIX,internetpopculture.com,Proxy
+DOMAIN-SUFFIX,interseclab.org,Proxy
 DOMAIN-SUFFIX,inthenameofconfuciusmovie.com,Proxy
 DOMAIN-SUFFIX,investigating.wordpress.com,Proxy
 DOMAIN-SUFFIX,invidio.us,Proxy
@@ -3478,6 +3481,7 @@ DOMAIN-SUFFIX,occupytiananmen.com,Proxy
 DOMAIN-SUFFIX,ocreampies.com,Proxy
 DOMAIN-SUFFIX,ocry.com,Proxy
 DOMAIN-SUFFIX,october-review.org,Proxy
+DOMAIN-SUFFIX,octocaptcha.com,Proxy
 DOMAIN-SUFFIX,oculus.com,Proxy
 DOMAIN-SUFFIX,oculuscdn.com,Proxy
 DOMAIN-SUFFIX,odysee.com,Proxy
@@ -4973,7 +4977,6 @@ DOMAIN-SUFFIX,ub0.cc,Proxy
 DOMAIN-SUFFIX,ubddns.org,Proxy
 DOMAIN-SUFFIX,uberproxy.net,Proxy
 DOMAIN-SUFFIX,uc-japan.org,Proxy
-DOMAIN-SUFFIX,uderzo.it,Proxy
 DOMAIN-SUFFIX,udn.com,Proxy
 DOMAIN-SUFFIX,udn.com.tw,Proxy
 DOMAIN-SUFFIX,udnbkk.com,Proxy
@@ -5344,6 +5347,7 @@ DOMAIN-SUFFIX,wikilivres.info,Proxy
 DOMAIN-SUFFIX,wikimapia.org,Proxy
 DOMAIN-SUFFIX,wikimedia.org,Proxy
 DOMAIN-SUFFIX,wikinews.org,Proxy
+DOMAIN-SUFFIX,wikipedia.com,Proxy
 DOMAIN-SUFFIX,wikipedia.org,Proxy
 DOMAIN-SUFFIX,wikisource.org,Proxy
 DOMAIN-SUFFIX,wikiversity.org,Proxy
