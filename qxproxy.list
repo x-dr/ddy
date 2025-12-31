@@ -234,6 +234,7 @@ DOMAIN-SUFFIX,alicejapan.co.jp,Proxy
 DOMAIN-SUFFIX,aliengu.com,Proxy
 DOMAIN-SUFFIX,alive.bar,Proxy
 DOMAIN-SUFFIX,aljazeera.com,Proxy
+DOMAIN-SUFFIX,aljazeera.net,Proxy
 DOMAIN-SUFFIX,alkasir.com,Proxy
 DOMAIN-SUFFIX,all4mom.org,Proxy
 DOMAIN-SUFFIX,allcoin.com,Proxy
@@ -971,7 +972,6 @@ DOMAIN-SUFFIX,chrome.com,Proxy
 DOMAIN-SUFFIX,chromecast.com,Proxy
 DOMAIN-SUFFIX,chromeexperiments.com,Proxy
 DOMAIN-SUFFIX,chromestatus.com,Proxy
-DOMAIN-SUFFIX,chromium.org,Proxy
 DOMAIN-SUFFIX,chuang-yen.org,Proxy
 DOMAIN-SUFFIX,chubold.com,Proxy
 DOMAIN-SUFFIX,chubun.com,Proxy
@@ -1242,7 +1242,6 @@ DOMAIN-SUFFIX,deja.com,Proxy
 DOMAIN-SUFFIX,delcamp.net,Proxy
 DOMAIN-SUFFIX,demo.unlock-music.dev,Proxy
 DOMAIN-SUFFIX,demosisto.hk,Proxy
-DOMAIN-SUFFIX,deno.dev,Proxy
 DOMAIN-SUFFIX,depositphotos.com,Proxy
 DOMAIN-SUFFIX,desc.se,Proxy
 DOMAIN-SUFFIX,desipro.de,Proxy
@@ -1312,7 +1311,6 @@ DOMAIN-SUFFIX,doc.new,Proxy
 DOMAIN-SUFFIX,docker.com,Proxy
 DOMAIN-SUFFIX,docker.io,Proxy
 DOMAIN-SUFFIX,dockerstatus.com,Proxy
-DOMAIN-SUFFIX,docs.deno.com,Proxy
 DOMAIN-SUFFIX,docs.new,Proxy
 DOMAIN-SUFFIX,doctorvoice.org,Proxy
 DOMAIN-SUFFIX,documentingreality.com,Proxy
@@ -1939,6 +1937,7 @@ DOMAIN-SUFFIX,gfsale.com,Proxy
 DOMAIN-SUFFIX,gfw.press,Proxy
 DOMAIN-SUFFIX,gfw.report,Proxy
 DOMAIN-SUFFIX,gfwatch.org,Proxy
+DOMAIN-SUFFIX,gfwbao.com,Proxy
 DOMAIN-SUFFIX,ggpht.com,Proxy
 DOMAIN-SUFFIX,ggssl.com,Proxy
 DOMAIN-SUFFIX,ghidra-sre.org,Proxy
@@ -2588,6 +2587,7 @@ DOMAIN-SUFFIX,ismalltits.com,Proxy
 DOMAIN-SUFFIX,ismprofessional.net,Proxy
 DOMAIN-SUFFIX,isohunt.com,Proxy
 DOMAIN-SUFFIX,israbox.com,Proxy
+DOMAIN-SUFFIX,issues.chromium.org,Proxy
 DOMAIN-SUFFIX,issuu.com,Proxy
 DOMAIN-SUFFIX,istars.co.nz,Proxy
 DOMAIN-SUFFIX,istockphoto.com,Proxy
@@ -2940,6 +2940,7 @@ DOMAIN-SUFFIX,lookpic.com,Proxy
 DOMAIN-SUFFIX,looktoronto.com,Proxy
 DOMAIN-SUFFIX,lotsawahouse.org,Proxy
 DOMAIN-SUFFIX,lotuslight.org.tw,Proxy
+DOMAIN-SUFFIX,lovart.ai,Proxy
 DOMAIN-SUFFIX,lovetvshow.com,Proxy
 DOMAIN-SUFFIX,lpsg.com,Proxy
 DOMAIN-SUFFIX,lrfz.com,Proxy
@@ -3325,6 +3326,7 @@ DOMAIN-SUFFIX,nekoslovakia.net,Proxy
 DOMAIN-SUFFIX,nemesis2.qx.net,Proxy
 DOMAIN-SUFFIX,neo-miracle.com,Proxy
 DOMAIN-SUFFIX,neowin.net,Proxy
+DOMAIN-SUFFIX,nephobox.com,Proxy
 DOMAIN-SUFFIX,netalert.me,Proxy
 DOMAIN-SUFFIX,netbirds.com,Proxy
 DOMAIN-SUFFIX,netcolony.com,Proxy
@@ -4423,6 +4425,7 @@ DOMAIN-SUFFIX,staticflickr.com,Proxy
 DOMAIN-SUFFIX,stboy.net,Proxy
 DOMAIN-SUFFIX,stc.com.sa,Proxy
 DOMAIN-SUFFIX,steamcommunity.com,Proxy
+DOMAIN-SUFFIX,steamladder.com,Proxy
 DOMAIN-SUFFIX,steamstatic.com,Proxy
 DOMAIN-SUFFIX,steel-storm.com,Proxy
 DOMAIN-SUFFIX,steemit.com,Proxy
