@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,9news.com.au,Proxy
 DOMAIN-SUFFIX,a-normal-day.com,Proxy
 DOMAIN-SUFFIX,a248.e.akamai.net,Proxy
 DOMAIN-SUFFIX,aamacau.com,Proxy
+DOMAIN-SUFFIX,aave.com,Proxy
 DOMAIN-SUFFIX,abc.net.au,Proxy
 DOMAIN-SUFFIX,abc.xyz,Proxy
 DOMAIN-SUFFIX,abebooks.co.uk,Proxy
@@ -686,6 +687,7 @@ DOMAIN-SUFFIX,chromeexperiments.com,Proxy
 DOMAIN-SUFFIX,chromestatus.com,Proxy
 DOMAIN-SUFFIX,chromium.org,Proxy
 DOMAIN-SUFFIX,ci-en.jp,Proxy
+DOMAIN-SUFFIX,cia.gov,Proxy
 DOMAIN-SUFFIX,cici.com,Proxy
 DOMAIN-SUFFIX,ciciai.com,Proxy
 DOMAIN-SUFFIX,cirosantilli.com,Proxy
@@ -2547,8 +2549,10 @@ DOMAIN-SUFFIX,ogate.org,Proxy
 DOMAIN-SUFFIX,ohmyrss.com,Proxy
 DOMAIN-SUFFIX,ok.ru,Proxy
 DOMAIN-SUFFIX,okayfreedom.com,Proxy
+DOMAIN-SUFFIX,okcoin.com,Proxy
 DOMAIN-SUFFIX,okex.com,Proxy
 DOMAIN-SUFFIX,okk.tw,Proxy
+DOMAIN-SUFFIX,oklink.com,Proxy
 DOMAIN-SUFFIX,okpool.me,Proxy
 DOMAIN-SUFFIX,okx.com,Proxy
 DOMAIN-SUFFIX,old.honeynet.org,Proxy
@@ -3960,6 +3964,7 @@ DOMAIN-SUFFIX,xbtce.com,Proxy
 DOMAIN-SUFFIX,xcafe.in,Proxy
 DOMAIN-SUFFIX,xcancel.com,Proxy
 DOMAIN-SUFFIX,xcity.jp,Proxy
+DOMAIN-SUFFIX,xdaforums.com,Proxy
 DOMAIN-SUFFIX,xerotica.com,Proxy
 DOMAIN-SUFFIX,xfinity.com,Proxy
 DOMAIN-SUFFIX,xfxssr.me,Proxy
