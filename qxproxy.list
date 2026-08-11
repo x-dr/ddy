@@ -135,6 +135,7 @@ DOMAIN-SUFFIX,agoogleaday.com,Proxy
 DOMAIN-SUFFIX,agro.hk,Proxy
 DOMAIN-SUFFIX,ai.dev,Proxy
 DOMAIN-SUFFIX,ai.studio,Proxy
+DOMAIN-SUFFIX,aihub.top,Proxy
 DOMAIN-SUFFIX,aiosearch.com,Proxy
 DOMAIN-SUFFIX,aiph.net,Proxy
 DOMAIN-SUFFIX,airconsole.com,Proxy
@@ -301,7 +302,6 @@ DOMAIN-SUFFIX,atlanta168.com,Proxy
 DOMAIN-SUFFIX,atnext.com,Proxy
 DOMAIN-SUFFIX,auctions.yahoo.co.jp,Proxy
 DOMAIN-SUFFIX,audacy.com,Proxy
-DOMAIN-SUFFIX,auntology.fandom.com,Proxy
 DOMAIN-SUFFIX,autodraw.com,Proxy
 DOMAIN-SUFFIX,av.movie,Proxy
 DOMAIN-SUFFIX,av01.tv,Proxy
@@ -347,6 +347,7 @@ DOMAIN-SUFFIX,baramangaonline.com,Proxy
 DOMAIN-SUFFIX,barnabu.co.uk,Proxy
 DOMAIN-SUFFIX,bartender.dowjones.com,Proxy
 DOMAIN-SUFFIX,barton.de,Proxy
+DOMAIN-SUFFIX,basemaps.arcgis.com,Proxy
 DOMAIN-SUFFIX,bastillepost.com,Proxy
 DOMAIN-SUFFIX,bayvoice.net,Proxy
 DOMAIN-SUFFIX,bb-chat.tv,Proxy
@@ -630,6 +631,7 @@ DOMAIN-SUFFIX,centauro.com.br,Proxy
 DOMAIN-SUFFIX,centerforhumanreprod.com,Proxy
 DOMAIN-SUFFIX,centralnation.com,Proxy
 DOMAIN-SUFFIX,centurys.net,Proxy
+DOMAIN-SUFFIX,cerebras.ai,Proxy
 DOMAIN-SUFFIX,certificate-transparency.org,Proxy
 DOMAIN-SUFFIX,certificate.revocationcheck.com,Proxy
 DOMAIN-SUFFIX,cfr.org,Proxy
@@ -710,6 +712,7 @@ DOMAIN-SUFFIX,chrome.com,Proxy
 DOMAIN-SUFFIX,chromecast.com,Proxy
 DOMAIN-SUFFIX,chromeexperiments.com,Proxy
 DOMAIN-SUFFIX,chromestatus.com,Proxy
+DOMAIN-SUFFIX,cht.com.tw,Proxy
 DOMAIN-SUFFIX,ci-en.jp,Proxy
 DOMAIN-SUFFIX,cia.gov,Proxy
 DOMAIN-SUFFIX,cici.com,Proxy
@@ -937,6 +940,7 @@ DOMAIN-SUFFIX,disneyplus.com,Proxy
 DOMAIN-SUFFIX,disp.cc,Proxy
 DOMAIN-SUFFIX,disqus.com,Proxy
 DOMAIN-SUFFIX,dit-inc.us,Proxy
+DOMAIN-SUFFIX,divdyn.com,Proxy
 DOMAIN-SUFFIX,diyin.org,Proxy
 DOMAIN-SUFFIX,dizhuzhishang.com,Proxy
 DOMAIN-SUFFIX,dl-laby.jp,Proxy
@@ -1086,6 +1090,7 @@ DOMAIN-SUFFIX,eromanga-kingdom.com,Proxy
 DOMAIN-SUFFIX,eromangadouzin.com,Proxy
 DOMAIN-SUFFIX,eromon.net,Proxy
 DOMAIN-SUFFIX,esg.t91y.com,Proxy
+DOMAIN-SUFFIX,esim.redteago.com,Proxy
 DOMAIN-SUFFIX,eslite.com,Proxy
 DOMAIN-SUFFIX,esurance.com,Proxy
 DOMAIN-SUFFIX,etherdelta.com,Proxy
@@ -1108,6 +1113,7 @@ DOMAIN-SUFFIX,exmormon.org,Proxy
 DOMAIN-SUFFIX,expatshield.com,Proxy
 DOMAIN-SUFFIX,expecthim.com,Proxy
 DOMAIN-SUFFIX,expekt.com,Proxy
+DOMAIN-SUFFIX,experience.arcgis.com,Proxy
 DOMAIN-SUFFIX,exploader.net,Proxy
 DOMAIN-SUFFIX,expressnews.com,Proxy
 DOMAIN-SUFFIX,expressvpn.com,Proxy
@@ -1147,6 +1153,7 @@ DOMAIN-SUFFIX,falundafaindia.org,Proxy
 DOMAIN-SUFFIX,falunhr.org,Proxy
 DOMAIN-SUFFIX,famunion.com,Proxy
 DOMAIN-SUFFIX,fanbox.cc,Proxy
+DOMAIN-SUFFIX,fandom.com,Proxy
 DOMAIN-SUFFIX,fangeqiang.com,Proxy
 DOMAIN-SUFFIX,fanglizhi.info,Proxy
 DOMAIN-SUFFIX,fangong.org,Proxy
@@ -1839,7 +1846,6 @@ DOMAIN-SUFFIX,holyspiritspeaks.org,Proxy
 DOMAIN-SUFFIX,home.saxo,Proxy
 DOMAIN-SUFFIX,homedepot.com,Proxy
 DOMAIN-SUFFIX,homeservershow.com,Proxy
-DOMAIN-SUFFIX,hongkong.fandom.com,Proxy
 DOMAIN-SUFFIX,hongkongfp.com,Proxy
 DOMAIN-SUFFIX,hongzhi.li,Proxy
 DOMAIN-SUFFIX,honven.xyz,Proxy
@@ -2466,7 +2472,6 @@ DOMAIN-SUFFIX,mosavi.io,Proxy
 DOMAIN-SUFFIX,motherless.com,Proxy
 DOMAIN-SUFFIX,movements.org,Proxy
 DOMAIN-SUFFIX,moviefap.com,Proxy
-DOMAIN-SUFFIX,mozilla.ai,Proxy
 DOMAIN-SUFFIX,mpettis.com,Proxy
 DOMAIN-SUFFIX,mpfinance.com,Proxy
 DOMAIN-SUFFIX,mpinews.com,Proxy
@@ -2935,7 +2940,6 @@ DOMAIN-SUFFIX,puffinbrowser.com,Proxy
 DOMAIN-SUFFIX,pullfolio.co,Proxy
 DOMAIN-SUFFIX,pure18.com,Proxy
 DOMAIN-SUFFIX,pureconcepts.net,Proxy
-DOMAIN-SUFFIX,puredns.org,Proxy
 DOMAIN-SUFFIX,pureinsight.org,Proxy
 DOMAIN-SUFFIX,purepdf.com,Proxy
 DOMAIN-SUFFIX,purevpn.com,Proxy
@@ -2980,7 +2984,6 @@ DOMAIN-SUFFIX,radio.co,Proxy
 DOMAIN-SUFFIX,radio.garden,Proxy
 DOMAIN-SUFFIX,radioaustralia.net.au,Proxy
 DOMAIN-SUFFIX,radiohilight.net,Proxy
-DOMAIN-SUFFIX,radiojar.com,Proxy
 DOMAIN-SUFFIX,radioline.co,Proxy
 DOMAIN-SUFFIX,radiovaticana.org,Proxy
 DOMAIN-SUFFIX,radiovncr.com,Proxy
@@ -3093,7 +3096,6 @@ DOMAIN-SUFFIX,sadpanda.us,Proxy
 DOMAIN-SUFFIX,safechat.com,Proxy
 DOMAIN-SUFFIX,safeguarddefenders.com,Proxy
 DOMAIN-SUFFIX,safervpn.com,Proxy
-DOMAIN-SUFFIX,sagernet.org,Proxy
 DOMAIN-SUFFIX,saintyculture.com,Proxy
 DOMAIN-SUFFIX,sakuralive.com,Proxy
 DOMAIN-SUFFIX,salvation.org.hk,Proxy
@@ -4084,7 +4086,6 @@ DOMAIN-SUFFIX,www.ajsands.com,Proxy
 DOMAIN-SUFFIX,www.antd.org,Proxy
 DOMAIN-SUFFIX,www.aolnews.com,Proxy
 DOMAIN-SUFFIX,www.bing.com,Proxy
-DOMAIN-SUFFIX,www.clashverge.dev,Proxy
 DOMAIN-SUFFIX,www.cmoinc.org,Proxy
 DOMAIN-SUFFIX,www.dmm.com,Proxy
 DOMAIN-SUFFIX,www.eastturkistan.net,Proxy
