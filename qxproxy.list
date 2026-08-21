@@ -505,6 +505,7 @@ DOMAIN-SUFFIX,break.com,Proxy
 DOMAIN-SUFFIX,breakgfw.com,Proxy
 DOMAIN-SUFFIX,breakingtweets.com,Proxy
 DOMAIN-SUFFIX,breakwall.net,Proxy
+DOMAIN-SUFFIX,briarproject.org,Proxy
 DOMAIN-SUFFIX,brill.com,Proxy
 DOMAIN-SUFFIX,brizzly.com,Proxy
 DOMAIN-SUFFIX,broadpressinc.com,Proxy
@@ -647,6 +648,7 @@ DOMAIN-SUFFIX,character.ai,Proxy
 DOMAIN-SUFFIX,chat.com,Proxy
 DOMAIN-SUFFIX,chat.lmsys.org,Proxy
 DOMAIN-SUFFIX,chatgpt.com,Proxy
+DOMAIN-SUFFIX,chatgpt.site,Proxy
 DOMAIN-SUFFIX,chatpdf.com,Proxy
 DOMAIN-SUFFIX,chaturbate.com,Proxy
 DOMAIN-SUFFIX,checkgfw.com,Proxy
@@ -2255,6 +2257,7 @@ DOMAIN-SUFFIX,liveleak.com,Proxy
 DOMAIN-SUFFIX,livemint.com,Proxy
 DOMAIN-SUFFIX,livestream.com,Proxy
 DOMAIN-SUFFIX,livevideo.com,Proxy
+DOMAIN-SUFFIX,livingatlas.arcgis.com,Proxy
 DOMAIN-SUFFIX,livingstream.com,Proxy
 DOMAIN-SUFFIX,lmarena.ai,Proxy
 DOMAIN-SUFFIX,localbitcoins.com,Proxy
@@ -2671,6 +2674,7 @@ DOMAIN-SUFFIX,oklink.com,Proxy
 DOMAIN-SUFFIX,okpool.me,Proxy
 DOMAIN-SUFFIX,okx.com,Proxy
 DOMAIN-SUFFIX,old.honeynet.org,Proxy
+DOMAIN-SUFFIX,oldmapsonline.org,Proxy
 DOMAIN-SUFFIX,olehdtv.com,Proxy
 DOMAIN-SUFFIX,olelive.com,Proxy
 DOMAIN-SUFFIX,olevod.com,Proxy
@@ -3089,6 +3093,7 @@ DOMAIN-SUFFIX,rxhj.net,Proxy
 DOMAIN-SUFFIX,s-cute.com,Proxy
 DOMAIN-SUFFIX,s.yimg.com,Proxy
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com,Proxy
+DOMAIN-SUFFIX,s3.dualstack.us-west-2.amazonaws.com,Proxy
 DOMAIN-SUFFIX,sacks.com,Proxy
 DOMAIN-SUFFIX,sacom.hk,Proxy
 DOMAIN-SUFFIX,sadistic-v.com,Proxy
@@ -4031,6 +4036,7 @@ DOMAIN-SUFFIX,wiktionary.org,Proxy
 DOMAIN-SUFFIX,willw.net,Proxy
 DOMAIN-SUFFIX,wilsoncenter.org,Proxy
 DOMAIN-SUFFIX,windscribe.com,Proxy
+DOMAIN-SUFFIX,windy.com,Proxy
 DOMAIN-SUFFIX,wingamestore.com,Proxy
 DOMAIN-SUFFIX,wingy.site,Proxy
 DOMAIN-SUFFIX,wionews.com,Proxy
