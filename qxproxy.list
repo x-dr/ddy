@@ -553,6 +553,7 @@ DOMAIN-SUFFIX,byrut.org,Proxy
 DOMAIN-SUFFIX,c-est-simple.com,Proxy
 DOMAIN-SUFFIX,c-span.org,Proxy
 DOMAIN-SUFFIX,c-spanvideo.org,Proxy
+DOMAIN-SUFFIX,c.go-mpulse.net,Proxy
 DOMAIN-SUFFIX,c.mi.com,Proxy
 DOMAIN-SUFFIX,c2cx.com,Proxy
 DOMAIN-SUFFIX,c3pool.com,Proxy
@@ -1337,6 +1338,7 @@ DOMAIN-SUFFIX,futuremessage.org,Proxy
 DOMAIN-SUFFIX,futustatic.com,Proxy
 DOMAIN-SUFFIX,fututrade.com,Proxy
 DOMAIN-SUFFIX,fututrustee.com,Proxy
+DOMAIN-SUFFIX,fuyin116.com,Proxy
 DOMAIN-SUFFIX,fw.cm,Proxy
 DOMAIN-SUFFIX,fxcm-chinese.com,Proxy
 DOMAIN-SUFFIX,fxnetworks.com,Proxy
@@ -2491,6 +2493,7 @@ DOMAIN-SUFFIX,mthruf.com,Proxy
 DOMAIN-SUFFIX,mubi.com,Proxy
 DOMAIN-SUFFIX,mullvad.net,Proxy
 DOMAIN-SUFFIX,multiply.com,Proxy
+DOMAIN-SUFFIX,muse.ai,Proxy
 DOMAIN-SUFFIX,music.amazon.com,Proxy
 DOMAIN-SUFFIX,musixmatch.com,Proxy
 DOMAIN-SUFFIX,muzi.com,Proxy
@@ -2965,6 +2968,7 @@ DOMAIN-SUFFIX,qiangyou.org,Proxy
 DOMAIN-SUFFIX,qianmo.tw,Proxy
 DOMAIN-SUFFIX,qiwen.lu,Proxy
 DOMAIN-SUFFIX,qmp4.com,Proxy
+DOMAIN-SUFFIX,qobuz.com,Proxy
 DOMAIN-SUFFIX,qoos.com,Proxy
 DOMAIN-SUFFIX,qq.co.za,Proxy
 DOMAIN-SUFFIX,qstatus.com,Proxy
@@ -3840,6 +3844,7 @@ DOMAIN-SUFFIX,valeursactuelles.com,Proxy
 DOMAIN-SUFFIX,vansky.com,Proxy
 DOMAIN-SUFFIX,vaticannews.va,Proxy
 DOMAIN-SUFFIX,vatn.org,Proxy
+DOMAIN-SUFFIX,vava8.com,Proxy
 DOMAIN-SUFFIX,vcf-online.org,Proxy
 DOMAIN-SUFFIX,vcfbuilder.org,Proxy
 DOMAIN-SUFFIX,veed.io,Proxy
@@ -3941,6 +3946,7 @@ DOMAIN-SUFFIX,waffle1999.com,Proxy
 DOMAIN-SUFFIX,wainao.me,Proxy
 DOMAIN-SUFFIX,walletconnect.com,Proxy
 DOMAIN-SUFFIX,walletconnect.org,Proxy
+DOMAIN-SUFFIX,wallhaven.cc,Proxy
 DOMAIN-SUFFIX,wallmama.com,Proxy
 DOMAIN-SUFFIX,wallpapercasa.com,Proxy
 DOMAIN-SUFFIX,wallsttv.com,Proxy
